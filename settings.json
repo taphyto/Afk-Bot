@@ -1,14 +1,14 @@
 {
     "bot-account":{ 
-        "username": "bot",
+        "username": "baburaobot",
         "password": "",
         "type": "mojang"
     },
 
     "server":{
-        "ip": "localhost",
+        "ip": "codingjava.aternos.me",
         "port": 25565,
-        "version": "1.17.1"
+        "version": "1.18.1"
     },
 
     "position":{
@@ -35,10 +35,10 @@
             "repeat-delay": 60,
 
             "messages": [
-                "I'm a regular player ", 
-                "My owner is urFate_ ", 
+                "I'm a Baburao GanpatRao Apte ", 
+                "My Garage Is In Mumbai Filmcity ", 
                 "I want be alone ", 
-                "Visit my GitHub page! (urFate/Afk-Bot)"
+                "I Am Pagal "
             ]
         },
 
